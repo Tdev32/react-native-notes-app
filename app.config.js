@@ -79,5 +79,11 @@ export default ({ config }) => ({
       projectId: "71dee5de-27ab-4f53-9116-03a18028843f"
     }
   },
+  updates: {
+    "url": "https://u.expo.dev/71dee5de-27ab-4f53-9116-03a18028843f"
+  },
+  runtimeVersion: {
+    "policy": "appVersion"
+  },
   owner: "newdev38"
 })
